@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Icons/logo.ico</file>
+    <file>Icons/arrow-31-48.ico</file>
+    <file>Icons/arrow-96-48.ico</file>
+    <file>Icons/car-4-48.ico</file>
+    <file>Icons/car-4-64.ico</file>
+    <file>Icons/code-48.ico</file>
+    <file>Icons/group-48.ico</file>
+    <file>Icons/group-64.ico</file>
+    <file>Icons/home-4-48 (2).ico</file>
+    <file>Icons/home-4-48.ico</file>
+    <file>Icons/new-badge-2-48.ico</file>
+    <file>Icons/open-in-browser-48.ico</file>
+    <file>Icons/redeem-32.ico</file>
+    <file>Icons/redeem-48.ico</file>
+    <file>Icons/redeem-64.ico</file>
+    <file>Icons/save-48.ico</file>
+    <file>Icons/save-as-48.ico</file>
+    <file>Icons/search-3-48.ico</file>
+    <file>Icons/user-48.ico</file>
+    <file>Icons/x-mark-4-32.ico</file>
+    <file>Icons/x-mark-4-48.ico</file>
+  </qresource>
+</RCC>
